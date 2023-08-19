@@ -131,6 +131,7 @@ def adding_sets_prices_database():
                         game_id = data['AppID']  # Update the game_names list after removal
                         break
             if  not data['Trading Cards Set cost'].eq(0).any():
+                print("...Done...")
                 return count_errori
     return count_errori
 
