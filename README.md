@@ -39,7 +39,6 @@ You are limited to sending only 25 requests every 200 seconds to Steam, as Steam
 
 ![](https://i.imgur.com/2PNlAOe.png)
 ![](https://i.imgur.com/wpgktm4.png)
-![](https://i.imgur.com/pa0oQXW.png)
 
 
 ## User Information
