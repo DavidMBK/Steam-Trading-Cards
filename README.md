@@ -63,7 +63,7 @@ With the range of 600 - 2000 games  (Yes, I am still receiving card sets)
 ## Installation - With Prompt
 
 1. Clone this repository in a folder: `git clone ` 
-*  if the command doesn't work, install Git : https://git-scm.com/download/win or else just download the folder as it is.
+*  if the command doesn't work, install Git : https://git-scm.com/download/win; otherwise, simply download the folder as is.
 2. Enter the project directory: `cd your-project-name`
 3. Install dependencies: `pip install -r requirements.txt`
 
