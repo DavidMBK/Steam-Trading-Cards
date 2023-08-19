@@ -35,6 +35,11 @@ Once the Fetch Game Set Price operation is complete, the program will generate a
 
 You are limited to sending only 25 requests every 200 seconds to Steam, as Steam imposes restrictions on the number of requests within a short timeframe. To overcome this limitation, you can use a VPN or proxy server. For additional information, please refer to this link: https://medium.com/@DavidMBK/steam-trading-cards-information-21994b6572d0
 
+![](https://i.imgur.com/2PNlAOe.png)
+![](https://i.imgur.com/wpgktm4.png)
+![](https://i.imgur.com/pa0oQXW.png)
+
+
 ## User Information
 
 Within this section, you can review your level statistics, gaining insights into factors such as the typical speed of card packs drops and the associated probabilities. Additionally, you can compare different levels and obtain an "approximate price for leveling up at that level" (please note that this may vary due to the ever-changing market conditions).
@@ -59,12 +64,6 @@ Additional evidence, based on my experience (I leveled up during this period, so
 ![](https://i.imgur.com/GwVf8TY.png)
 
 With the range of 600 - 2000 games  (Yes, I am still receiving card sets)
-
-## Exemplary Final Product
-
-![](https://i.imgur.com/2PNlAOe.png)
-![](https://i.imgur.com/wpgktm4.png)
-![](https://i.imgur.com/pa0oQXW.png)
 
 ## Installation - With Prompt
 
