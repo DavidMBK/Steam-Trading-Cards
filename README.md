@@ -17,9 +17,9 @@ Additionally, you can verify the cooldown period for receiving card packs and th
 
 
 ## Game Information Retrieval
-You can input the game's name and retrieve one of the following types of information.
+You can input the game's name and retrieve set price and badge link.
 
-![](https://i.imgur.com/IYoh6im.png)
+![](https://i.imgur.com/1PuJzRj.png)
 
 
 
