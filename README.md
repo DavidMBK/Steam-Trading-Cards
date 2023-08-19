@@ -62,7 +62,7 @@ With the range of 600 - 2000 games  (Yes, I am still receiving card sets)
 
 ## Installation - With Prompt
 
-1. Clone this repository in a folder: `git clone ` 
+1. Clone this repository in a folder: `git clone https://github.com/DavidMBK/Steam-Trading-Cards.git` 
 *  if the command doesn't work, install Git : https://git-scm.com/download/win; otherwise, simply download the folder as is.
 2. Enter the project directory: `cd your-project-name`
 3. Install dependencies: `pip install -r requirements.txt`
