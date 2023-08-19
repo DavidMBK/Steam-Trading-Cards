@@ -60,6 +60,12 @@ Additional evidence, based on my experience (I leveled up during this period, so
 
 With the range of 600 - 2000 games  (Yes, I am still receiving card sets)
 
+## Exemplary Final Product
+
+![](https://i.imgur.com/2PNlAOe.png)
+![](https://i.imgur.com/wpgktm4.png)
+![](https://i.imgur.com/pa0oQXW.png)
+
 ## Installation - With Prompt
 
 1. Clone this repository in a folder: `git clone https://github.com/DavidMBK/Steam-Trading-Cards.git` 
