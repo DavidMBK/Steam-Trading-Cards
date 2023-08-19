@@ -35,6 +35,8 @@ Once the Fetch Game Set Price operation is complete, the program will generate a
 
 You are limited to sending only 25 requests every 200 seconds to Steam, as Steam imposes restrictions on the number of requests within a short timeframe. To overcome this limitation, you can use a VPN or proxy server. For additional information, please refer to this link: https://medium.com/@DavidMBK/steam-trading-cards-information-21994b6572d0
 
+* Exemplary Final Product:
+
 ![](https://i.imgur.com/2PNlAOe.png)
 ![](https://i.imgur.com/wpgktm4.png)
 ![](https://i.imgur.com/pa0oQXW.png)
